@@ -1,2 +1,3 @@
-# mixer
-Mini mixer for Korg Volcas and other gear (research project)
+# Mixer
+
+Mini mixer for Korg Volcas or other gear (experimental project).
